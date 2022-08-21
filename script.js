@@ -2,7 +2,7 @@ var a=prompt("EnterUsername");
  var b=prompt("EnterPassword");
   	if(a== "Naba" && b=="22-08")
   	{
-  	    window.location.href="start.html";
+  	    window.location.href="dob.html";
   	}
   	else
   	{
